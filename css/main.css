@@ -4,7 +4,7 @@ body {
     }
 div {
     background-color: #73a373;
-    border: 2px solid white;
+    border: 1px solid white;
     display: inline-block;
     }
 .cancha {
@@ -14,8 +14,8 @@ div {
 }
 .box {
     position: absolute;
-    height: 460px;
-    width: 660px;
+    height: 467px;
+    width: 667px;
     left: 15px;
     top: 15px;
     }
@@ -32,7 +32,7 @@ div {
     width: 100px;
     border-right: 0px;
     top: 130px;
-    left: 244px;
+    left: 253px;
 }
 
 .centro {
