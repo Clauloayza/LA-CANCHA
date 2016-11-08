@@ -1,1 +1,66 @@
-/* Inserta tu CSS aqui */
+body {
+    padding: 0;
+    margin: 0;
+    }
+div {
+    background-color: #73a373;
+    border: 2px solid white;
+    display: inline-block;
+    }
+.cancha {
+    position: absolute;
+    width: 700px;
+    height: 500px;
+}
+.box {
+    position: absolute;
+    height: 460px;
+    width: 660px;
+    left: 15px;
+    top: 15px;
+    }
+.izquierdo {
+    position: relative;
+    height: 200px;
+    width: 100px;
+    border-left: 0px;
+    top:130px;
+}
+.derecho {
+    position: relative;
+    height: 200px;
+    width: 100px;
+    border-right: 0px;
+    top: 130px;
+    left: 244px;
+}
+
+.centro {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    top:130px;
+    left: 125px;
+}
+
+.bola1{
+    border: 0px;
+    position: absolute;
+    top:135px;
+    left: 90px;
+    
+    }
+.bola2{
+    border: 0px;
+    position: absolute;
+    top:70px;
+    left: 350px;
+}
+.bola3{
+    border: 0px;
+    position: absolute;
+    top:309px;
+    right: 106px;
+    
+}
